@@ -1,11 +1,9 @@
 ﻿/*
  * PSO_SVR v1.0
  * Dinda Novitasari
- * 115060800111007
  * Informatika/ Ilmu Komputer
  * Universitas Brawijaya
  * id.dindanovitasari@gmail.com
- * dindanovitasari.com/labworks
  */
 using System;
 using System.IO;
